@@ -1,0 +1,10 @@
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\noMoreTeckmatorp2014.exe
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\noMoreTeckmatorp2014.pdb
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.exe
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.pdb
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\spritesheet.xnb
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\font.xnb
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\explosion_sfx.xnb
+c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\shoot_sfx.xnb
+C:\Users\Tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+Content\spritesheet.xnb
+Content\font.xnb
+Content\explosion_sfx.xnb
+Content\shoot_sfx.xnb
