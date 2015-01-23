@@ -8,3 +8,13 @@ c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTe
 c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\explosion_sfx.xnb
 c:\users\tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\shoot_sfx.xnb
 C:\Users\Tom\documents\visual studio 2010\Projects\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.csprojResolveAssemblyReference.cache
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\spritesheet.xnb
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\font.xnb
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\explosion_sfx.xnb
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\Content\shoot_sfx.xnb
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\noMoreTeckmatorp2014.exe
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\bin\x86\Debug\noMoreTeckmatorp2014.pdb
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.csprojResolveAssemblyReference.cache
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.exe
+C:\Users\sul13atom\Documents\GitHub\CombatClone\noMoreTeckmatorp2014\noMoreTeckmatorp2014\noMoreTeckmatorp2014\obj\x86\Debug\noMoreTeckmatorp2014.pdb

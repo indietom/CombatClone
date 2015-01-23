@@ -18,7 +18,8 @@ namespace noMoreTeckmatorp2014
         public int imy;
         public int width;
         public int height;
-        public byte hp;
+
+        public sbyte hp;
 
         public sbyte currentFrame;
         public byte animationCount;
@@ -52,6 +53,11 @@ namespace noMoreTeckmatorp2014
             angle = (float)Math.Atan2(y2 - y, x2 - x);
             veclocity_x = (speed * (float)Math.Cos(angle));
             veclocity_y = (speed * (float)Math.Sin(angle));
+        }
+
+        public int Dubblan(int x)
+        {
+            return x * 2;
         }
 
         public int frame(sbyte frame2)
